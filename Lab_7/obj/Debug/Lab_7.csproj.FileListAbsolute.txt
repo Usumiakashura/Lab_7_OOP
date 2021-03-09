@@ -1,0 +1,7 @@
+E:\Учеба\БГУиР\Решенные лабораторные\ООП\Lab7\Lab_7\obj\Debug\Lab_7.csprojAssemblyReference.cache
+E:\Учеба\БГУиР\Решенные лабораторные\ООП\Lab7\Lab_7\obj\Debug\Lab_7.csproj.CoreCompileInputs.cache
+E:\Учеба\БГУиР\Решенные лабораторные\ООП\Lab7\Lab_7\bin\Debug\Lab_7.exe.config
+E:\Учеба\БГУиР\Решенные лабораторные\ООП\Lab7\Lab_7\bin\Debug\Lab_7.exe
+E:\Учеба\БГУиР\Решенные лабораторные\ООП\Lab7\Lab_7\bin\Debug\Lab_7.pdb
+E:\Учеба\БГУиР\Решенные лабораторные\ООП\Lab7\Lab_7\obj\Debug\Lab_7.exe
+E:\Учеба\БГУиР\Решенные лабораторные\ООП\Lab7\Lab_7\obj\Debug\Lab_7.pdb

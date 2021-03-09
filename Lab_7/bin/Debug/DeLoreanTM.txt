@@ -1,0 +1,23 @@
+Полное имя класса:Lab_7.DeLoreanTM
+Обычный класс
+Базовый класс - Lab_7.Car
+*** Поля класса: ***
+System.String name
+*** Свойства класса: ***
+Int32 Speed
+*** Методы класса: ***
+Int32 get_Speed()
+Void set_Speed(Int32)
+System.String drive()
+System.String fly()
+System.String ToString()
+Void SaveClass(System.String)
+Void SaveObject(System.String)
+Lab_7.DeLoreanTM LoadObject(System.String)
+Void Serialize(System.String)
+Lab_7.DeLoreanTM Deserialize(System.String)
+Int32 get_Speed()
+Void set_Speed(Int32)
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+System.Type GetType()
